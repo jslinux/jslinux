@@ -7,6 +7,14 @@ Fork form https://github.com/levskaya/jslinux-deobfuscated
 - https://github.com/tlrobinson/node-jslinux
 - https://github.com/ewiger/jsmodem
 
+编程的一切精华都在 linux 中沉淀了，学无止境。
+
+## Develop
+
+- 把加载的资源放到 qncdn 上
+- 更新下 gh-pages 的发布流程
+- 写点学习的文档
+
 De-obfuscated JSLinux
 =========================================================
 
